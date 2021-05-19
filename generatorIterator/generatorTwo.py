@@ -2,6 +2,10 @@ import time
 import random
 import memory_profiler
 
+# rom memory_profiler import memory_usage
+# mem_usage = memory_usage(-1, interval=.2, timeout=1)
+# -1 current process
+
 def peopleList(num):
 	p=[]
 	for i in range(num):
