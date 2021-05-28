@@ -1,0 +1,110 @@
+System requirements:-
+	1. large screen:- dell or lg
+	2. try to arrange the atleast 8 gb -  16gb ram in your pc
+	3. multiport and multi usb port for your system
+	4. chacks or white board and pen
+	5. other required cables
+
+Room setups :-
+	1. sitting chair:- ask papa the chair price and try to buy it as soon as possible
+	2. change living room all positions and get a better table for me
+	3. make exhost for the room 
+	4. try to arrange the inverter and the leds and the solar pannels
+
+Job Related Study:-
+	1. py to adv py:-
+		youtube:-
+			code with tim youtube
+			intermediate python programming course 
+	2. basic ml:-
+		youtube:-
+			codebasis channel 
+			freecode camp :- "sikit learn"
+			freecode camp:- "data analysis python numpy pandas"
+		udemy:-
+			downloaded and listed stuffs
+		cloudex lab:-
+			all
+	3. Open cv:-
+		youtube
+	4. Django:-
+		Udemy
+		downloaded Udemy
+		** Django 3 Course - Python Web Framework (+ pandas, matplotlib, & more) Youtube
+		+++
+	5. Django rest frmeworks:-
+		available in youtube
+		+++
+
+body fittness:-
+	1. asap reduce weight
+
+basic Study:-
+	1. DS Algo:-
+		go through as much as possible in youtube
+		try to purchase the interviewbit and leetcode offers
+		practice in c++, java, python alternatively
+
+	2. System Desigh:-
+		algo expert
+
+	3. Docker and kubernetes:-
+		as much as possible in youtube
+		as much as possible in udemy
+
+	4. mysql,MongoDB,postgreSQL:-
+		available in youtube
+
+	5. stat and other for data science:-
+		1. youtube
+			Statistics and Probability Full Course __ Statistics For Data Science 
+			basic plots in cordy seffer youtube videos(10)
+			for seaborn any thing from youtube
+			digital daru channel
+
+	6. uml:- 
+		free code camp:- UML Diagrams Full Course (Unified Modeling Language)
+
+	7. os:-
+		succes gateway
+		neso
+		gatesmashers
+
+	8. networking:-
+		neso
+		devops teacer youtube
+
+	9. devops:-
+		devops teacher youtube
+
+	10. Dbms:-
+		gateshashers
+		sanchit 
+		tutorials point
+
+	11. English:- 
+		Youtube
+		india bix
+	12. Reasoning:-
+		LMT
+		youtube
+		india bix
+	13. c++,java,c,py:-
+		success gateway
+		c technical interview questions and answers:- Naresh i Technologies
+	14. cd:-
+		avishek sharma
+		rabindra babu
+	15. cloud:-
+		avishek sharma
+	16. gate study:-
+		Unacademy
+	17. cloud technologies and bigdata:-
+		udemy vs youtube where is available
+	18. git and git hub advanced stuffs:-
+		available in youtube and udemy and other platforms
+
+Study for increase income:-
+	1. Stock:-
+	2. Mashrooms:-
+	3. Algorithmic trading:-
