@@ -35,9 +35,13 @@ Job Related Study:-
 	5. Django rest frmeworks:-
 		available in youtube
 		+++
+	6. concurrency and multiprogramming:-
+		udemy downloadrd
+		youtube (cordy + other)
 
 body fittness:-
 	1. asap reduce weight
+	2. eye checkup and chasma
 
 basic Study:-
 	1. DS Algo:-
