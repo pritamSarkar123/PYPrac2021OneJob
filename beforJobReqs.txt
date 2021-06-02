@@ -25,12 +25,15 @@ Job Related Study:-
 			downloaded and listed stuffs
 		cloudex lab:-
 			all
+		naukri link:-https://www.naukri.com/pulse/data-science?np=toppayingdatascienceskills&utm_medium=email&utm_source=toppayingskills_230421_active&utm_campaign=551%3A26765%3A5269
 	3. Open cv:-
 		youtube
 	4. Django:-
 		Udemy
 		downloaded Udemy
 		** Django 3 Course - Python Web Framework (+ pandas, matplotlib, & more) Youtube
+		** Tech with tim:- https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j
+		Python Django Web Framework - Full Course for Beginners:- https://www.youtube.com/watch?v=F5mRW0jo-U4
 		+++
 	5. Django rest frmeworks:-
 		available in youtube
@@ -77,6 +80,7 @@ basic Study:-
 	8. networking:-
 		neso
 		devops teacer youtube
+		youtube - It k Funde
 
 	9. devops:-
 		devops teacher youtube

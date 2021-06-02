@@ -1,0 +1,7 @@
+Frontend:-
+	css,html,javascript
+	react/view
+Backend:-
+	node js(Express) / Django	
+Databases:-
+	postgreSQL, MongoDB
