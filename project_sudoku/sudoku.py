@@ -89,7 +89,6 @@ def read_sudoku():
                 if emelement and emelement != '\n':
                     temp.append(int(emelement))
             game.append(temp.copy())
-
     return game
 
 
