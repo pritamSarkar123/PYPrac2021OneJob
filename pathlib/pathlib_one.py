@@ -129,3 +129,16 @@ def some_property_check():
 # different Stats
 # print(pathlib.Path(__file__).stat().st_size) # 4332
 # print(pathlib.Path(__file__).stat().st_atime) # S1632045678.974753
+# print(dir(pathlib.Path(__file__).stat()))
+# ['__add__', '__class__', '__contains__',
+# '__delattr__', '__dir__', '__doc__', '__eq__',
+# '__format__', '__ge__', '__getattribute__', '__getitem__',
+# '__getnewargs__', '__gt__', '__hash__', '__init__', 
+# '__init_subclass__', '__iter__', '__le__', '__len__', 
+# '__lt__', '__module__', '__mul__', '__ne__', '__new__', 
+# '__reduce__', '__reduce_ex__', '__repr__', '__rmul__', 
+# '__setattr__', '__sizeof__', '__str__', '__subclasshook__', 
+# 'count', 'index', 'n_fields', 'n_sequence_fields', 'n_unnamed_fields', 
+# 'st_atime', 'st_atime_ns', 'st_ctime', 'st_ctime_ns', 'st_dev', 
+# 'st_file_attributes', 'st_gid', 'st_ino', 'st_mode', 'st_mtime',
+# 'st_mtime_ns', 'st_nlink', 'st_reparse_tag', 'st_size', 'st_uid']
