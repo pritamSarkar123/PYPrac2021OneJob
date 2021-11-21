@@ -1,0 +1,7 @@
+function : collection of repetable code lines
+
+module(file) : collection of functions
+
+package(low level directory) : collection of modules(files)
+
+library(higher order directory) : collection of packages(low level folders)
