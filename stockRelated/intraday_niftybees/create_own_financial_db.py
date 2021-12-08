@@ -16,7 +16,7 @@ def getdata(tickers,period,interval):
 
 def createengine(name,path=""):
     ''' Returns a database engine'''
-    return sqlalchemy.create_engine(f'sqlite:///{os.path.join(path,name)}')
+    return sqlalchemy.create_engine(f'sqlite:///{os.path.join(path,name)}.db')
 
 
 
@@ -31,6 +31,7 @@ def get_and_store_data(name,ticker_source,period="1mo",interval='1m',path=""):
     ''' Handles each country s'''
     try:
         tickers = get_tickers(ticker_source)
+        print(tickers)
         country_data = getdata(tickers,period,interval)
         engine = createengine(name,path)
         TOSQL(country_data,tickers,engine)
@@ -54,15 +55,18 @@ if __name__=="__main__":
     periods = []
     intervals = []
 
+    countries.append("india")
+    periods.append('20y')
+    intervals.append('1d')
     
-    for i in range(1,len(sys.argv)):
-        smaller = sys.argv[i]
-        if smaller in ticker_sources:
-            countries.append(smaller)
-            periods.append('1mo')
-            intervals.append('1d')
-        else:
-            print(f"{smaller} is ignored as relevant stock map not present")
+    # for i in range(1,len(sys.argv)):
+    #     smaller = sys.argv[i]
+    #     if smaller in ticker_sources:
+    #         countries.append(smaller)
+    #         periods.append('1mo')
+    #         intervals.append('1d')
+    #     else:
+    #         print(f"{smaller} is ignored as relevant stock map not present")
     main(countries,periods,intervals)
     
     

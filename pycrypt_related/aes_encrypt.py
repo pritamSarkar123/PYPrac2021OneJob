@@ -1,5 +1,6 @@
 # need to encrypt and decrypt the following file 
 # https://www.youtube.com/watch?v=UB2VX4vNUa0
+#pycryptodome required
 
 from Crypto import Random
 from Crypto.Cipher import AES
